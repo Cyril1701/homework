@@ -1,0 +1,47 @@
+span{
+	color:red
+}
+mark{
+	color: coral;
+}
+
+.text{
+	color:blue
+}
+
+ul.spisok{
+	color: orange;
+}
+
+.first-class,
+.second-class{
+	color:darkgreen
+}
+
+.insidetext p{
+color: darkolivegreen;
+}
+
+.text p{
+	color:darkred
+}
+
+.text > p{
+	color: red;
+}
+
+.text ~ p{
+	color:darkcyan
+}
+
+.text + p{
+	color:red
+}
+
+.text *{
+	color:blue
+}
+
+.text .lesson{
+	color:green
+}
